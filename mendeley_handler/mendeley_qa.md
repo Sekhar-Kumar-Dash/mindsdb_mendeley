@@ -22,7 +22,7 @@ WITH
 ```
 **Screeshot Result: Query successfull**
 
-![test_1](assets/screenshot1.jpg)
+![test_1](assets/screenshot1.png)
 
 -----
 
